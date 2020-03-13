@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/emo/static/css/main.d1b05096.chunk.css",
-    "main.js": "/emo/static/js/main.8bd30cb0.chunk.js",
-    "main.js.map": "/emo/static/js/main.8bd30cb0.chunk.js.map",
+    "main.css": "/emo/static/css/main.38c0b618.chunk.css",
+    "main.js": "/emo/static/js/main.6c748771.chunk.js",
+    "main.js.map": "/emo/static/js/main.6c748771.chunk.js.map",
     "runtime-main.js": "/emo/static/js/runtime-main.1d690946.js",
     "runtime-main.js.map": "/emo/static/js/runtime-main.1d690946.js.map",
-    "static/js/2.a049f7c5.chunk.js": "/emo/static/js/2.a049f7c5.chunk.js",
-    "static/js/2.a049f7c5.chunk.js.map": "/emo/static/js/2.a049f7c5.chunk.js.map",
+    "static/js/2.77b478fb.chunk.js": "/emo/static/js/2.77b478fb.chunk.js",
+    "static/js/2.77b478fb.chunk.js.map": "/emo/static/js/2.77b478fb.chunk.js.map",
     "index.html": "/emo/index.html",
-    "precache-manifest.2b077e0f249905d33630ab0798de214c.js": "/emo/precache-manifest.2b077e0f249905d33630ab0798de214c.js",
+    "precache-manifest.09eadd54a27f8826e4393ed4a23367ef.js": "/emo/precache-manifest.09eadd54a27f8826e4393ed4a23367ef.js",
     "service-worker.js": "/emo/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/emo/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.a049f7c5.chunk.js.LICENSE.txt": "/emo/static/js/2.a049f7c5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/emo/static/media/logo.5d5d9eef.svg"
+    "static/css/main.38c0b618.chunk.css.map": "/emo/static/css/main.38c0b618.chunk.css.map",
+    "static/js/2.77b478fb.chunk.js.LICENSE.txt": "/emo/static/js/2.77b478fb.chunk.js.LICENSE.txt",
+    "static/media/angry.png": "/emo/static/media/angry.216ec719.png",
+    "static/media/happy.png": "/emo/static/media/happy.0242cea7.png",
+    "static/media/robot.png": "/emo/static/media/robot.9eb80570.png",
+    "static/media/smiling.png": "/emo/static/media/smiling.5bba4d69.png",
+    "static/media/surprised.png": "/emo/static/media/surprised.4087931a.png",
+    "static/media/thinking.png": "/emo/static/media/thinking.a7684cff.png",
+    "static/media/upset.png": "/emo/static/media/upset.7081abc5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1d690946.js",
-    "static/js/2.a049f7c5.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.8bd30cb0.chunk.js"
+    "static/js/2.77b478fb.chunk.js",
+    "static/css/main.38c0b618.chunk.css",
+    "static/js/main.6c748771.chunk.js"
   ]
 }
